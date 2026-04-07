@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+*.yaml
+*.pem
+.env
+.env.local
